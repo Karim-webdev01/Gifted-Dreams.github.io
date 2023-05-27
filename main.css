@@ -1,0 +1,39 @@
+.body{
+    background-color: rgb(0, 0, 56);
+}
+.logo{
+    width: 100%;
+    width: 300px;
+    position: relative;
+    left: 50px;
+    top: 10px;
+    border-radius: 30px;
+}
+.dis{
+    color: white;
+    text-align: center;
+    font-family: century gothic;
+    font-size: 30px;
+    padding: 0px 10px
+}
+.how{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+.howa{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    position: relative;
+    left: 50px;    
+}
+.con{
+    text-align: center;
+    color: white;
+    font-family: century gothic;
+}
+.pn{
+    text-align: center;
+    color: white;
+}
